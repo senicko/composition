@@ -261,7 +261,7 @@ abstract class ImageSaver extends Image {
 
 ````md magic-move {at: 1}
 ```java
-final class DrawableImage extends Image {
+final class PngImage extends Image {
     /**
      * Logika pozwalająca rysować
      * wykorzystując niskopoziomowe operacje
@@ -278,7 +278,7 @@ final class DrawableImage extends Image {
 ```
 
 ```java
-final class DrawableImage extends ImageSaver {
+final class PngImage extends ImageSaver {
     /**
      * Logika pozwalająca rysować
      * wykorzystując niskopoziomowe operacje
