@@ -479,6 +479,7 @@ layout: two-cols
 1. <a href="https://youtube.com/@codeaesthetic?si=hFe86QYcNw-LeQWK" target="_blank">Code Aesthetics</a> - Kanał z wytłumaczonymi podstawowymi zasadami pisania dobrego kodu na niebanalnych przykładach.
 2. <a href="https://www.youtube.com/watch?v=QM1iUe6IofM">_"Object-Oriented Programming is Bad"_</a> - Bardzo dobry film poszerzający horyzonty na temat OOP i "smaku" podczas pisania kodu.
 3. <a href="https://refactoring.guru/design-patterns">Design Patterns</a> - Strona z wytłumaczeniem wielu wzorców projektowych.
+4. <a href="https://python-patterns.guide/gang-of-four/composition-over-inheritance/">The Composition Over Inheritance Principle</a>
 
 ---
 
